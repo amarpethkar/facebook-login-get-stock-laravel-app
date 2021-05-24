@@ -11,8 +11,7 @@ Navigation:
   1. Profile - Once user is loggedin, system will show user's public details such as name, facebook user ID, and user email
     ![image](https://user-images.githubusercontent.com/38145514/119389495-9cc91300-bcc3-11eb-8b56-d512d45768cc.png)
     
-    Once Loggedin 
-    ![image](https://user-images.githubusercontent.com/38145514/119389586-be29ff00-bcc3-11eb-85ac-4715312ff50e.png)
+     ![image](https://user-images.githubusercontent.com/38145514/119389950-37c1ed00-bcc4-11eb-8cec-736ad3c351ec.png)
 
   2. Stock - Stock page will facilitae user to get the stock quotes and list the all the searched stocks by current user
     ![image](https://user-images.githubusercontent.com/38145514/119389630-cf730b80-bcc3-11eb-9a78-ff84aba8fe61.png)
