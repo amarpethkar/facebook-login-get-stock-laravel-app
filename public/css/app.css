@@ -1,0 +1,16 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.nav-width{
+    width: 75%;
+}
+
+.txt-align-center{
+    text-align: center;
+}
+
+.getStockFormSection{
+    margin-bottom: 20px;
+}
+
