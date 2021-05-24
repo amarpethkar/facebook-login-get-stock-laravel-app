@@ -30,4 +30,4 @@ Navigation:
 - **[Vehikl](https://vehikl.com/)**
 
 Tech Stack:
-  PHP (Laravel), JS, jQuery, CSS, Bootstrap, Facebook JS API, Alpha Vantage Stock Quote API, AJAX, JSON 
+  PHP (Laravel), JS, jQuery, CSS, Bootstrap, Facebook JS API, Alpha Vantage Stock Quote API, AJAX, JSON, Docker
