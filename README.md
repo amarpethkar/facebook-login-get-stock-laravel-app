@@ -9,9 +9,16 @@ Core Features:
 
 Navigation:
   1. Profile - Once user is loggedin, system will show user's public details such as name, facebook user ID, and user email
+    ![image](https://user-images.githubusercontent.com/38145514/119389495-9cc91300-bcc3-11eb-8b56-d512d45768cc.png)
+    
+    Once Loggedin 
+    ![image](https://user-images.githubusercontent.com/38145514/119389586-be29ff00-bcc3-11eb-85ac-4715312ff50e.png)
+
   2. Stock - Stock page will facilitae user to get the stock quotes and list the all the searched stocks by current user
-  3. Facebook Log In Button - Click to login using your facebook accout 
-  4. Logout - Logout and clear the session
+    ![image](https://user-images.githubusercontent.com/38145514/119389630-cf730b80-bcc3-11eb-9a78-ff84aba8fe61.png)
+
+  4. Facebook Log In Button - Click to login using your facebook accout 
+  5. Logout - Logout and clear the session
  
  Database (Modal/Migartion file):
  
